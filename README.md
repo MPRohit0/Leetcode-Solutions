@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0062-unique-paths) |
 ## Recursion
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0062-unique-paths) |
 ## Backtracking
 |  |
 | ------- |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
