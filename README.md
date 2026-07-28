@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 ## Math
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 ## Backtracking
 |  |
 | ------- |
