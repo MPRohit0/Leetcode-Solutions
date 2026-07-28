@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 ## Dynamic Programming
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 ## Matrix
 |  |
