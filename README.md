@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 ## Backtracking
 |  |
 | ------- |
