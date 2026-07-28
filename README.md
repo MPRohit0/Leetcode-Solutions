@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0078-subsets) |
 ## Binary Search
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0078-subsets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -170,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
