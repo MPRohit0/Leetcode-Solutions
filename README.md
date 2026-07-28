@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0079-word-search) |
 ## Binary Search
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0079-word-search) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0079-word-search) |
 ## Sorting
 |  |
 | ------- |
@@ -176,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0078-subsets) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
