@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
