@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [2864-maximum-odd-binary-number](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
 | ------- |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Range Minimum/Maximum Query
