@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [3731-find-missing-elements](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3866-first-unique-even-element) |
 ## Binary Search
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [3731-find-missing-elements](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3866-first-unique-even-element) |
 ## Matrix
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [3731-find-missing-elements](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
@@ -288,4 +292,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3866-first-unique-even-element](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3866-first-unique-even-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
+## Ordered Set
+|  |
+| ------- |
+| [2251-number-of-flowers-in-full-bloom](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
 <!---LeetCode Topics End-->
