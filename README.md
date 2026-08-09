@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0079-word-search) |
+| [1143-longest-common-subsequence](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [2864-maximum-odd-binary-number](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
+| [1143-longest-common-subsequence](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Backtracking
 |  |
@@ -302,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
