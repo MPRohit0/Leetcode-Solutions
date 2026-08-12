@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3731-find-missing-elements](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3866-first-unique-even-element) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2251-number-of-flowers-in-full-bloom](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [3731-find-missing-elements](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3866-first-unique-even-element) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Matrix
 |  |
 | ------- |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Ordered Set
 |  |
 | ------- |
@@ -315,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 <!---LeetCode Topics End-->
