@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2864-maximum-odd-binary-number](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Recursion
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2864-maximum-odd-binary-number](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3866-first-unique-even-element](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3866-first-unique-even-element) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Prefix Sum
 |  |
 | ------- |
