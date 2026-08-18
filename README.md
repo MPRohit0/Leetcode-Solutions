@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-smallest-index-with-equal-value](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2057-smallest-index-with-equal-value) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2855-minimum-right-shifts-to-sort-the-array](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
 | [3731-find-missing-elements](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3866-first-unique-even-element) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
