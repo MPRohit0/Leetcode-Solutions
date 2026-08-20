@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0090-subsets-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0500-keyboard-row](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [1631-path-with-minimum-effort](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
 ## Divide and Conquer
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0300-longest-increasing-subsequence](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Backtracking
@@ -356,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
