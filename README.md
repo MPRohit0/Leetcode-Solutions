@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2057-smallest-index-with-equal-value](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2057-smallest-index-with-equal-value) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2347-best-poker-hand](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2347-best-poker-hand) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0500-keyboard-row](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2347-best-poker-hand](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2347-best-poker-hand) |
 | [3731-find-missing-elements](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3866-first-unique-even-element) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2347-best-poker-hand](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2347-best-poker-hand) |
 | [3866-first-unique-even-element](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3866-first-unique-even-element) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Prefix Sum
