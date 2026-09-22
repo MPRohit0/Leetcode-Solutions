@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0089-gray-code) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2843-count-symmetric-integers](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2843-count-symmetric-integers) |
 | [2864-maximum-odd-binary-number](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2864-maximum-odd-binary-number) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Heap (Priority Queue)
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
