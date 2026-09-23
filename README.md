@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0091-decode-ways) |
+| [0290-word-pattern](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0500-keyboard-row](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [1143-longest-common-subsequence](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0290-word-pattern](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0500-keyboard-row](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2347-best-poker-hand](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2347-best-poker-hand) |
