@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0500-keyboard-row](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0500-keyboard-row) |
+| [0746-min-cost-climbing-stairs](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0300-longest-increasing-subsequence](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Backtracking
