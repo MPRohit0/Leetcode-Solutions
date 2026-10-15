@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2347-best-poker-hand](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2347-best-poker-hand) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3866-first-unique-even-element) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2347-best-poker-hand](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2347-best-poker-hand) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3731-find-missing-elements](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3866-first-unique-even-element) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
@@ -388,4 +390,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
