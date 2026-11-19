@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2864-maximum-odd-binary-number](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2864-maximum-odd-binary-number) |
+| [2937-make-three-strings-equal](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2937-make-three-strings-equal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/3955-valid-binary-strings-with-cost-limit) |
