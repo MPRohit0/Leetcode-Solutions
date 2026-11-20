@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0500-keyboard-row](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0746-min-cost-climbing-stairs](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0849-maximize-distance-to-closest-person](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0849-maximize-distance-to-closest-person) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
