@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0404-sum-of-left-leaves](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [1631-path-with-minimum-effort](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
+| [1971-find-if-path-exists-in-graph](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Stack
 |  |
 | ------- |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1971-find-if-path-exists-in-graph](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
+| [1971-find-if-path-exists-in-graph](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
@@ -447,4 +450,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0292-nim-game) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
