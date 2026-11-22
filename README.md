@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0500-keyboard-row) |
+| [0520-detect-capital](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0647-palindromic-substrings](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
