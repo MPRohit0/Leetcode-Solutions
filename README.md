@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0279-perfect-squares](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [1137-n-th-tribonacci-number](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0152-maximum-product-subarray](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0279-perfect-squares](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0100-same-tree) |
+| [0279-perfect-squares](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0404-sum-of-left-leaves](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
@@ -457,4 +460,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
