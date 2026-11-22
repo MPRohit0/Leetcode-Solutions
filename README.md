@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0090-subsets-ii) |
+| [0152-maximum-product-subarray](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0500-keyboard-row](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0500-keyboard-row) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
+| [0152-maximum-product-subarray](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
