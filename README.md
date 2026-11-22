@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [1143-longest-common-subsequence](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2864-maximum-odd-binary-number](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2864-maximum-odd-binary-number) |
 | [2937-make-three-strings-equal](https://github.com/MPRohit0/Leetcode-Solutions/tree/master/2937-make-three-strings-equal) |
